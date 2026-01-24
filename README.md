@@ -19,7 +19,7 @@ programado era proveniente do Python. Hoje, porém, vejo que ele possui funciona
 tantas outras.
 
 CONSIDERAÇÕES FINAIS:
-Escrevo este READ.ME no dia 24/01/2026, com muita alegria e orgulho de meus avanços. Continuarei aprendendo e realizando as
+Escrevo este README no dia 24/01/2026, com muita alegria e orgulho de meus avanços. Continuarei aprendendo e realizando as
 continuações do curso de Python; conseguirei realizar meus projetos e espero me tornar um ótimo programador, abrindo portas
 em minha vida.
 
