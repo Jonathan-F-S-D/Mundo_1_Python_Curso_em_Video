@@ -4,7 +4,7 @@
 # Em que posição ela aparece a última vez.
 
 frase = str(input('Digite uma frase qualquer: ')).strip().upper()
-print('Sua frase é: {}.\nEla possui {} letras A.\nO primeiro A que aparece está na posição: {}\nA última está na posição: {}'.format(frase,frase.count('A' and 'Ã'),frase.find('A' and 'Ã')+1, frase.rfind('A' and 'Ã')+1))
+print('Sua frase é: {}.\nEla possui {} letras A.\nO primeiro A que aparece está na posição: {}\nA última está na posição: {}'.format(frase,frase.count('A'),frase.find('A')+1, frase.rfind('A')+1))
 # As somas (+1) servem para mostrar a posição ao usuário das letras.
 # Nós sabemos que o find mostra 1 posição antes da letra procurada, logo o +1 serve para indicar exatamente a posição da letra.
 # O 'and' serve como adição ("... e também...")
